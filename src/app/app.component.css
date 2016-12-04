@@ -1,0 +1,10 @@
+.app {
+  padding-top: 80px;
+}
+
+.col-sidebar {
+  position: fixed;
+  left: 0;
+  display: block;
+  min-height: 100%;
+}
